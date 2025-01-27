@@ -22,7 +22,7 @@ The process must be fully automated so that the same script can be run every fin
 - **Database Table Name**: `Largest_banks`
 - **Log File Name**: `code_log.txt`
 
-### Project Tasks:
+## Project Tasks:
 
 #### **Task 1: Log Progress**  
 - **Objective**: Write a function `log_progress()` to track and log the progress of the script at different stages.
